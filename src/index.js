@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom/client'; // from 'react-dom' is old way and works with 2nd method of calling (old bad practice)
 import './index.css';
 // import Card from './Card';
-import App from './App';
+import App from './containers/App';
 import reportWebVitals from './reportWebVitals';
 import 'tachyons';
 // import { robots } from './robots'
