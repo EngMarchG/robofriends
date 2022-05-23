@@ -3,6 +3,10 @@ import Card from "./Card";
 
 // Since its javascript it you can functionize it directly
 const CardList = ({ robots }) => {
+    // if (true) {
+    //     throw new Error('Dame Da Ne Dame Yo Dame Na No Yo');
+    // } // To trigger Error Boundary
+    
     return (
         <div>
             {
